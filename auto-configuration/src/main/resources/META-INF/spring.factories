@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.yoqu.springboot.test.autocofiguration.HelloServiceAutoConfiguration
